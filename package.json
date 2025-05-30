@@ -1,7 +1,7 @@
 {
-  "name": "trivia-api",
+  "name": "mailer",
   "version": "1.0.0",
-  "description": "Trivia API",
+  "description": "A simple mailer service using Node.js and TypeScript",
   "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",
